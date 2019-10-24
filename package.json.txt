@@ -1,0 +1,8 @@
+{
+	"name": "simple app",
+	"version": "0.0.1",
+	"author": "Zhuravel V.V.",
+	"scripts": {
+		"start": "node static-file-server.js"
+	}
+}
